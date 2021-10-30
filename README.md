@@ -3,7 +3,6 @@
 - MVC pattern
 - Application Properties
 - jstl, jquery,bootstrap
-<br/>
 
 ## Init
 Import -> Existing Maven Projects

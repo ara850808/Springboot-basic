@@ -1,8 +1,8 @@
-# Springboot-basic
+# Springboot-basic-template
 ### Feature
 - MVC pattern
 - Application Properties
-- jstl, jquery,bootstrap
+- jstl, jquery, bootstrap
 
 ## Init
 Import -> Existing Maven Projects
